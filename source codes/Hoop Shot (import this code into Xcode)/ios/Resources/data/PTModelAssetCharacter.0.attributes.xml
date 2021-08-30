@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>111</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>9457</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.500000}</string>
+                        <string>{44.400002,1.500000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6997</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>11063</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{-0.500000,0.500000}</string>
+                        <string>{48.299999,4.500000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInGameCurrency</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7097</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>11072</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>Name</key>
+                    <dict>
+                        <key>value</key>
+                        <string></string>
+                    </dict>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,-5.000000}</string>
+                        <string>{43.599998,1.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInGameCurrency</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

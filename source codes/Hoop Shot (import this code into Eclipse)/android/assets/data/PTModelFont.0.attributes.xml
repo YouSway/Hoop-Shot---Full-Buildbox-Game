@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2</string>
+                <key>className</key>
+                <string>PTModelFont</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>100</string>
+                </dict>
+                <key>Font name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Rubik Bold</string>
+                </dict>
+                <key>Font size</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                    <key>variableValue</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Shadow Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.000,0.000}</string>
+                </dict>
+                <key>Canvas size</key>
+                <dict>
+                    <key>value</key>
+                    <string>{512.000,704.000}</string>
+                </dict>
+                <key>Main Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>198.000000</string>
+                    <key>g</key>
+                    <string>197.000000</string>
+                    <key>b</key>
+                    <string>197.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Gradient Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>100.000000</string>
+                    <key>g</key>
+                    <string>100.000000</string>
+                    <key>b</key>
+                    <string>100.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Stroke Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Shadow Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>112.000000</string>
+                    <key>g</key>
+                    <string>112.000000</string>
+                    <key>b</key>
+                    <string>112.000000</string>
+                    <key>a</key>
+                    <string>125.000000</string>
+                </dict>
+                <key>Draw Gradient</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4022</string>
+                <key>className</key>
+                <string>PTModelFont</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>60</string>
+                </dict>
+                <key>Font name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Rubik Bold</string>
+                </dict>
+                <key>Font size</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>variableValue</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Shadow Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{3.000,-3.000}</string>
+                </dict>
+                <key>Canvas size</key>
+                <dict>
+                    <key>value</key>
+                    <string>{512.000,512.000}</string>
+                </dict>
+                <key>Main Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>85.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Gradient Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>100.000000</string>
+                    <key>g</key>
+                    <string>100.000000</string>
+                    <key>b</key>
+                    <string>100.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Stroke Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Shadow Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>0.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>125.000000</string>
+                </dict>
+                <key>Draw Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Draw Gradient</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9803</string>
+                <key>className</key>
+                <string>PTModelFont</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>120</string>
+                </dict>
+                <key>Font name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Rubik Bold</string>
+                </dict>
+                <key>Font size</key>
+                <dict>
+                    <key>value</key>
+                    <string>120.000000</string>
+                    <key>variableValue</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Shadow Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.000,-2.000}</string>
+                </dict>
+                <key>Canvas size</key>
+                <dict>
+                    <key>value</key>
+                    <string>{512.000,1200.000}</string>
+                </dict>
+                <key>Stroke Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>5.000000</string>
+                </dict>
+                <key>Main Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>64.000000</string>
+                    <key>g</key>
+                    <string>64.000000</string>
+                    <key>b</key>
+                    <string>64.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Gradient Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Stroke Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>85.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Shadow Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>85.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>125.000000</string>
+                </dict>
+                <key>Draw Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Draw Gradient</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
